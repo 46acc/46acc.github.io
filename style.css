@@ -26,18 +26,18 @@ body {
     display: block;
     color: #51247a;
     text-align: center;
-    padding: 8px 14px;
+    padding: 8px 17px;
     text-decoration: none;
 }
 
 #menu li a:hover:not(.active) {
     background: #A9A9A9;
-    color: #5D4C46;
+    color: #e2e2e2;
 }
 
 #menu li a.active {
     color: black;
-    background-color: #F1A94E;
+    background-color: #51247a;
     color: #f4f4f4;
     font-size: 1em;
 }
@@ -61,25 +61,31 @@ body {
 h4 {
 font-size: 1em;
 margin: 0 0 0 0;
-color: #5D4C46;
+color: #51247a;
 }
 
 h3 {
 font-size: 1em;
 margin: 10px 0 10px 0;
-color: #5D4C46;
+color: #51247a;
 }
 
 h2 {
 font-size: 1.3em;
 margin: 10px 0 10px 0;
-color: #5D4C46;
+color: #51247a;
 }
 
 h1 {
 font-size: 1.53em;
 margin: 10px 0 10px 0;
-color: #5D4C46;
+color: #51247a;
+}
+
+h1.h1-title {   
+    text-align:center;
+    line-height:1.4em;
+    
 }
 
 a {
