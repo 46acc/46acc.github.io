@@ -168,6 +168,15 @@ a img {
 border: 0;
 }
 
+ul.invited-speakers {
+    font-size: 16px;
+}
+
+ul.invited-speakers li {
+    padding-bottom: 10px;
+}
+
+
 .left {
 margin: 10px 10px 5px 0;
 float: left;
